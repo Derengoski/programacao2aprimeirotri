@@ -4,8 +4,7 @@ body{
 }
 header {
     background-color: lightcoral;
-    text-align: center;
-}
+    text-align: left;
 
 .cabecalho-imagem{
     width: 10%;
