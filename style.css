@@ -9,6 +9,7 @@ body{
 }
 header {
     background-color: lightcoral;
+    color: aliceblue;
     display: flex;
     justify-content: space-around;
     align-items: center;
