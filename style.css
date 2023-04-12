@@ -15,6 +15,7 @@ header {
 .cabecalho-imagem{
     width: 7%;
 }
+
 .cabecalho {
     background-color: #ffffff;
     color: white;
@@ -22,5 +23,4 @@ header {
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
-    text-align: justify;
 }
