@@ -16,11 +16,4 @@ header {
     width: 7%;
 }
 
-.cabecalho {
-    background-color: #ffffff;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
-}
+
